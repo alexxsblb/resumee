@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(119, 115, 155);
+    padding: 40px;
+    font-family: Montserrat;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    max-width: 1280px;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+}
+
+
+.sidebar{
+    background: #221e39;
+    width: 370px;
+    height: 1600px;
+    padding-top: 40px;
+}
+
+.myphoto{
+    width: 370px;
+}
+.contacts-container{
+    margin-top: 60px;
+    margin-left: 35px;
+    
+}
+
+.contacts-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.contacts-link-tipe{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+.cont-link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #757c86;
+}
+.tech-skills{
+    margin-top: 57px;
+    margin-left: 40px;
+}
+.tech-skills-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: ivory;
+    margin-bottom: 20px;
+}
+.techs{
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+.tech-skills-text{
+    color: #c2c2c2;
+}
+.about-me-container{
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+.info-container {
+    margin-bottom: 65px; 
+}
+.proffesion{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.name{
+    font-size: 45px;
+    line-height: 89px;
+    font-weight: 700;
+    margin-bottom: 25px; 
+}
+.description{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.about-me-title{
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.project-item{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 17px;
+}
+.project-link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+.dots{
+    font-weight: 100;
+    color: #a8a8a8;
+}
+.project-container{
+    margin-bottom: 55px;
+}
+.proffesion-title{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.colortext{
+    color: #ff6b08;
+}
+.proffesion-time{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a8a8a8;
+}
+.profd{
+    color: #000000;
+}
+.proffesion-duties{
+    margin-bottom: 25px;
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 15px;
+
+}
+.line{
+    margin-bottom: 10px;
+}
